@@ -56,6 +56,6 @@ request.onload = function() {
 		}
   	});
 };
-request.open( 'GET', 'js/evilList.txt', true );
+request.open( 'GET', 'evilList.txt', true );
 request.send();
 
