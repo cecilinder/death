@@ -1,0 +1,192 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "animals",
+   "children": [
+    {
+     "name": "big",
+     "children": [
+      {"name": "Elephants", "size": 30},
+      {"name": "Lions", "size": 30},
+      {"name": "Crocodiles", "size": 30},
+      {"name": "Bears", "size": 30},
+      {"name": "Sharks", "size": 30},
+      {"name": "Wolves", "size": 30}
+     ]
+    },
+    {
+     "name": "small",
+     "children": [
+      {"name": "Jellyfish", "size": 30},
+      {"name": "Scorpions", "size": 30}
+     ]
+    },
+    {
+     "name": "Snakes",
+     "children": [
+      {"name": "Snakes", "size": 48}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Accidents",
+   "children": [
+    {"name": "Road traffic accidents", "size": 484},
+    {"name": "Falls", "size": 315},
+    {"name": "Sleeping", "size": 30},
+    {"name": "Drownings", "size": 313},
+    {"name": "Marathons", "size": 30},
+    {"name": "Space explorations", "size": 30},
+    {"name": "Self immolation", "size": 30},
+    {"name": "Plane crashes", "size": 30},
+    {"name": "Football", "size": 30},
+    {"name": "Train crashes", "size": 30},
+    {"name": "Industrial accidents", "size": 30},
+    {"name": "Sporting accidents", "size": 30},
+    {"name": "Mountain climbing", "size": 30},
+    {"name": "Nuclear accidents", "size": 30}
+   ]
+  },
+  {
+   "name": "Ideologies",
+   "children": [
+    {"name": "Fascism", "size": 223},
+    {"name": "Democracy", "size": 119},
+    {"name": "Saddam Hussein", "size": 30},
+    {"name": "Terrorism", "size": 30},
+    {"name": "Catholicism policy on condom usage", "size": 30},
+    {"name": "Communism", "size": 755}
+   ]
+  },
+  {
+   "name": "Intentional killings",
+   "children": [
+    {"name": "Homicides", "size": 461},
+    {"name": "Poisonings", "size": 284},
+    {"name": "Genocide", "size": 239},
+    {"name": "Assassinations", "size": 30},
+    {"name": "Lynchings", "size": 30},
+    {"name": "Kamikaze pilots", "size": 30},
+    {"name": "Death penalty", "size": 30}
+   ]
+  },
+  {
+   "name": "Natural disasters",
+   "children": [
+    {"name": "Air Pollution", "size": 928},
+    {"name": "Fires", "size": 252},
+    {"name": "Extreme Weather", "size": 159},
+    {"name": "Climate Change", "size": 30},
+    {"name": "Earthquakes", "size": 30},
+    {"name": "Vulcanos", "size": 30},
+    {"name": "Maritime Disasters", "size": 30},
+    {"name": "Lightning", "size": 30}
+   ]
+  },
+  { 
+   "name": "Self caused",
+   "children": [
+    {"name": "Suicide", "size": 712},
+    {"name": "Drug abuse", "size": 52},
+    {"name": "Alcohol abuse", "size": 51},
+    {"name": "Suicide bombings (bomber only)", "size": 30},
+    {"name": "Eating disorders", "size": 30}
+   ]
+  },
+  { 
+   "name": "Addictions",
+   "children": [
+    {"name": "Tobacco", "size": 802},
+    {"name": "Alcohol", "size": 68},
+    {"name": "Illegal drugs", "size": 52},
+    {"name": "Gaming", "size": 30}
+   ]
+  },
+  {
+   "name": "War",
+   "children": [
+      {"name": "World War II", "size": 530},
+      {"name": "Civil war", "size": 158},
+      {"name": "Vietnam war 1965-73", "size": 30},
+      {"name": "Riots", "size": 30},
+      {"name": "World War I", "size": 297}
+   ]
+  },
+  {
+   "name": "Public health",
+   "children": [
+    {
+     "name": "Epidemics",
+     "children": [
+      {"name": "seasonal flu", "size": 290},
+      {"name": "1957 Asian Flu pandemic", "size": 30},
+      {"name": "Inluenza pandemic 1918-1919", "size": 321},
+      {"name": "SARS", "size": 30}
+     ]
+    },
+    {"name": "Famine", "size": 809}
+   ]
+  },
+  {
+   "name": "Diseases",
+   "children": [
+    {
+     "name": "Tropical",
+     "children": [
+      {"name": "Malaria", "size": 1554},
+      {"name": "Dengue", "size": 30},
+      {"name": "Diarrhoea", "size": 1813},
+      {"name": "Tropical diseases", "size": 130}
+     ]
+    },
+    {
+     "name": "Neurological",
+     "children": [
+      {"name": "Alzheimer's / Dementia", "size": 232},
+      {"name": "Epilepsy", "size": 76},
+      {"name": "Schizophrenia", "size": 30},
+      {"name": "Multipal sclerosis", "size": 30},
+      {"name": "Depression", "size": 30},
+      {"name": "Mental retadation", "size": 30},
+      {"name": "Bipolar disorder", "size": 30},
+      {"name": "Parkinson's", "size": 58}
+     ]
+    },
+    {"name": "Cancer", "size": 4283},
+    {"name": "Heart diseases", "size": 10000},
+    {"name": "Respiratory infections", "size": 3894},
+    {"name": "Smallpox", "size": 3209},
+    {"name": "Digestive diseases", "size": 1180},
+    {"name": "Tuberculosis", "size": 802},
+    {"name": "Measles", "size": 776},
+    {"name": "Diabetes", "size": 586},
+    {"name": "Whooping cough", "size": 306},
+    {"name": "Tetanus", "size": 298},
+    {"name": "Meningitis", "size": 176},
+    {"name": "Endocrine disorders", "size": 146},
+    {"name": "Asthma", "size": 142},
+    {"name": "Rabies", "size": 53},
+    {"name": "Skin diseases", "size": 41},
+    {"name": "Diphteria", "size": 30},
+    {"name": "Leprosy", "size": 30},
+    {"name": "Polio", "size": 30},
+    {"name": "Nutricional deficiencies", "size": 30}
+   ]
+  },
+  {
+   "name": "Sex",
+   "children": [
+    {"name": "Syphilis", "size": 158},
+    {"name": "Chlamydia", "size": 30},
+    {"name": "HIV / AIDS", "size": 100},
+    {"name": "Gonorrhoea", "size": 30},
+    {"name": "Hepatit B", "size": 102},
+    {"name": "Hepatit C", "size": 52}
+   ]
+  },
+  {
+  }
+ ]
+}
